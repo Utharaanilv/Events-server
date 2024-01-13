@@ -1,0 +1,95 @@
+{
+    "events":[
+        {
+            "id":"1",
+            "image":"https://www.eventbrite.com/blog/wp-content/uploads/2023/01/eventbrite_sf_viceroy_08092019_mt_high-res_38-1.jpg",
+            "name":"Event1",
+            "location":"vadakara",
+            "category":"music",
+            "date":"2023-10-15",
+            "popularity":"8"
+        },
+        {
+            "id":"2",
+            "image":"https://www.eventbrite.co.uk/blog/wp-content/uploads/2022/06/How-to-Promote-Your-Gigs-768x512.jpg",
+            "name":"Event2",
+            "location":"calicut",
+            "category":"dance",
+            "date":"2023-10-15",
+            "popularity":"3"  
+        },
+        {
+            "id":"3",
+            "image":"https://static.spin.com/files/2021/10/BonIver_102221_MatthewJohnBenton-6512.jpg",
+            "name":"Event1",
+            "location":"kannur",
+        
+            "date":"2023-10-16",
+            "popularity":"5"
+        },
+        {
+            "id":"4",
+            "image":"https://content.jdmagicbox.com/comp/ernakulam/m4/0484px484.x484.140206113128.a9m4/catalogue/we-create-events-panampilly-nagar-ernakulam-event-management-companies-nsobpzm660.jpg?clr=",
+            "name":"Event1",
+            "location":"vadakara",
+            "category":"Music",
+            "date":"2023-10-14",
+            "popularity":"8"
+        },
+        {
+            "id":"5",
+            "image":"https://media.istockphoto.com/id/499517325/photo/a-man-speaking-at-a-business-conference.jpg?s=612x612&w=0&k=20&c=gWTTDs_Hl6AEGOunoQ2LsjrcTJkknf9G8BGqsywyEtE=",
+            "name":"Event5",
+            "location":"vadakara",
+            
+            "date":"2023-10-18",
+            "popularity":"9"
+        },
+        {
+            "id":"6",
+            "image":"https://hire4event.com/blogs/wp-content/uploads/2020/01/Conference.jpg",
+            "name":"Event6",
+            "location":"wayanad",
+            "category":"Conference",
+            "date":"2023-10-16",
+            "popularity":"7"
+        },
+        {
+            "id":"7",
+            "image":"https://cdn0-production-images-kly.akamaized.net/xYEcqMdBWw6pN0mFBFD5_5uIjz8=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3396365/original/023706600_1615209973-concert-768722_1280.jpg",
+            "name":"Event4",
+            "location":"Calicut",
+            
+            "date":"2023-10-10",
+            "popularity":"7" 
+        },
+        {
+            "id":"8",
+            "image":"https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2023/4/17/irmgr1arsfsdwdhcjyy8/red-bull-dance-your-style-2023",
+            
+            "name":"Event3",
+            "location":"Palakkad",
+            
+            "date":"2023-10-25",
+            "popularity":"8" 
+        },
+        {
+            "id":"9",
+            "image":"https://highlight.id/wp-content/uploads/2018/07/Highlight_jenis-macam-event-bazaar-workshop-seminar-pameran-terbaru-jadwal-agendar-update-kota_05.jpg",
+            "name":"Event4",
+            "location":"Kannur",
+            "category":"Dance",
+            "date":"2023-10-22",
+            "popularity":"6" 
+        },
+        {
+            "id":"10",
+            "image":"https://www.meydanfz.ae/wp-content/uploads/2021/10/Events.png",
+            "name":"Event5",
+            "location":"Wayanad",
+            
+            "date":"2023-10-12",
+            "popularity":"5" 
+        }
+    ]
+}
